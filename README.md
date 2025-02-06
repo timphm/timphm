@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pham Tung (Tim Pham) and I'm a Fullstack Developer, from Viet Nam</h2>
+<h2 align="left">Hi 👋! My name is Phạm Thanh Tùng (Tim Pham) and I'm a Fullstack Developer</h2>
 
 ###
 
@@ -37,16 +37,22 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="30" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats-smoky-five-62.vercel.app/api?username=timphm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-smoky-five-62.vercel.app/api/top-langs?username=timphm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-smoky-five-62.vercel.app/api/top-langs?username=timphm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
